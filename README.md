@@ -1,0 +1,1 @@
+I wrote a blog about this object tracker . In this blog, I explain the code, the SIFT algorithm, and the importance of traditional computer vision techniques.   :  https://medium.com/thedeephub/object-tracking-with-sift-algorithm-using-opencv-51be3c6882c9
